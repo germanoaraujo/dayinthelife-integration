@@ -2,6 +2,7 @@
 :apicurio-studio-url: http://apicurio-studio.{openshift-app-host}
 :next-lab-url: https://tutorial-web-app-webapp.{openshift-app-host}/tutorial/dayinthelife-integration.git-developer-track-lab02/
 :user-password: Abt7MjWMb8v4ECS
+:user-username: evalsXY
 
 ifdef::env-github[]
 :next-lab-url: ../lab02/walkthrough.adoc
